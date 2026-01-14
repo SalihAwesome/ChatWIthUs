@@ -50,7 +50,7 @@ const startServer = async () => {
     try {
         await sequelize.authenticate();
         console.log('✅ MySQL connected.');
-        await sequelize.sync({ alter: true });
+        await sequelize.sync();
         console.log('✅ Models synced.');
 
         const userCount = await User.count();
