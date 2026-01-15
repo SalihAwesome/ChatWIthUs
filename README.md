@@ -1,4 +1,4 @@
-# 📬 MsgUS
+# 📬 MsgUs
 
 A real-time **chat support web application** with a separate frontend and backend, designed to allow users to communicate instantly through a modern and simple interface.
 
@@ -8,7 +8,7 @@ A real-time **chat support web application** with a separate frontend and backen
 
 ## 📖 Overview
 
-**MsgUS** is a full-stack chat application that provides real-time messaging capabilities.  
+**MsgUs** is a full-stack chat application that provides real-time messaging capabilities.  
 The project is split into two main parts:
 
 - **Frontend** – handles the user interface  
@@ -21,7 +21,7 @@ The architecture allows easy scaling and future enhancements such as authenticat
 ## 📁 Project Structure
 
 ```text
-ChatWIthUs/
+MsgUs/
 ├── backend/        # Server-side code
 ├── frontend/       # Client-side application
 └── README.md
