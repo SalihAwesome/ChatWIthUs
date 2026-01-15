@@ -41,7 +41,7 @@ MsgUs/
 
 ### Frontend
 
-- JavaScript
+- TypeScript
 - HTML & CSS
 - *(Framework/library used in your frontend)*
 
